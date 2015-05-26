@@ -1,0 +1,20 @@
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\bin\Debug\eBPK.exe
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\bin\Debug\eBPK.pdb
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\bin\Debug\eBPK.xml
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.vbprojResolveAssemblyReference.cache
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.Resources.resources
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.vbproj.GenerateResource.Cache
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.exe
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.xml
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.pdb
+C:\Users\izzah\AppData\Local\Temporary Projects\eBPK\obj\x86\Debug\eBPK.frmLogin.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.exe
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.xml
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.pdb
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Debug\eBPK.exe
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Debug\eBPK.pdb
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Debug\eBPK.xml
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.vbprojResolveAssemblyReference.cache
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.frmLogin.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.Resources.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Debug\eBPK.vbproj.GenerateResource.Cache

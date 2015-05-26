@@ -1,0 +1,15 @@
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Release\eBPK.exe
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Release\eBPK.pdb
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Release\eBPK.xml
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmLogin.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.Resources.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.vbproj.GenerateResource.Cache
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.exe
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.xml
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.pdb
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmMain.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmLembaga.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmTambah.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmStatistik.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmStatistikProgramJabatan.resources
+C:\Users\izzah\Documents\Visual Studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Release\eBPK.exe
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Release\eBPK.pdb
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\bin\Release\eBPK.xml
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmLogin.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.Resources.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.vbproj.GenerateResource.Cache
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.exe
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.xml
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.pdb
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmMain.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmLembaga.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmTambah.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmTambahJabatan.resources
+C:\Users\izzah\documents\visual studio 2010\Projects\eBPK\eBPK\obj\x86\Release\eBPK.frmTambahProgram.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.exe
+G:\eBPK\eBPK\obj\x86\Release\eBPK.xml
+G:\eBPK\eBPK\obj\x86\Release\eBPK.pdb
+G:\eBPK\eBPK\bin\Release\eBPK.exe
+G:\eBPK\eBPK\bin\Release\eBPK.pdb
+G:\eBPK\eBPK\bin\Release\eBPK.xml
+G:\eBPK\eBPK\obj\x86\Release\eBPK.vbprojResolveAssemblyReference.cache
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmLembaga.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmLogin.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmMain.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmStatistik.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmStatistikProgramJabatan.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmTambah.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmTambahJabatan.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.frmTambahProgram.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.Resources.resources
+G:\eBPK\eBPK\obj\x86\Release\eBPK.vbproj.GenerateResource.Cache
